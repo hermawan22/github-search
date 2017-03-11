@@ -1,0 +1,13 @@
+body{
+    padding-top: 10px;
+}
+
+.github-logo {
+    height: 80px;
+    width: 80px;
+}
+
+.loading {
+    text-align: center;
+    margin-top: 20px;
+}
