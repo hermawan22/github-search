@@ -1,4 +1,4 @@
-# Test for Wonderlabs
+# Test for Crowdbotics
 
 ### Feature :
 1. Search feature, it will search every users by username on github.

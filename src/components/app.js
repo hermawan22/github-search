@@ -24,7 +24,7 @@ class App extends Component {
 
           <Col sm={12} md={12}>
 
-            <h2> <Image src={logo} className="github-logo" circle/> Github Users Search </h2>
+            <h2> <Image src={logo} className="github-logo" circle/> Github Users Search (for Crowdbotics) </h2>
             
             {this.props.children}
           </Col>
